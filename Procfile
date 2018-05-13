@@ -1,0 +1,1 @@
+web: gunicorn consultre_proj.wsgi --log-file -
