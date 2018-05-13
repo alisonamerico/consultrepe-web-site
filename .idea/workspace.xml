@@ -2,75 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0cf1c7d-d451-4920-9cff-46d9a26c1279" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/consultrepe-website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/contactform/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/contactform/contactform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/css/scss-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/about-mission.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/about-plan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/about-vision.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/call-to-action-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/clients/client-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/facts-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/facts-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/intro-carousel/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/intro-carousel/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/intro-carousel/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/intro-carousel/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/intro-carousel/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/app1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/app2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/app3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/card1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/card2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/card3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/web1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/web2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/portfolio/web3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/quote-sign-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/quote-sign-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/testimonial-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/testimonial-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/testimonial-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/testimonial-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/img/testimonial-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/core/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consultre_proj/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/contactform/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/contactform/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/contactform/contactform.js" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/contactform/contactform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consultre_proj/core/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runtime" pinned="false" current-in-tab="true">
+      <file leaf-file-name="runtime" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtime">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -144,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consultre_proj/core/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="233">
+              <caret line="625" column="44" selection-start-line="625" selection-start-column="44" selection-end-line="625" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -191,6 +127,7 @@
       <find>Sobre</find>
       <find>our</find>
       <find>Get</find>
+      <find>Service</find>
     </findStrings>
     <replaceStrings>
       <replace>$1=&quot;{% static '$2' %}&quot;</replace>
@@ -205,12 +142,12 @@
         <option value="$PROJECT_DIR$/consultre_proj/core/urls.py" />
         <option value="$PROJECT_DIR$/consultre_proj/core/views.py" />
         <option value="$PROJECT_DIR$/consultre_proj/urls.py" />
-        <option value="$PROJECT_DIR$/consultre_proj/core/templates/index.html" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/consultre_proj/settings.py" />
         <option value="$PROJECT_DIR$/consultre_proj/wsgi.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/runtime" />
+        <option value="$PROJECT_DIR$/consultre_proj/core/templates/index.html" />
       </list>
     </option>
   </component>
@@ -274,10 +211,19 @@
       <option name="presentableId" value="Default" />
       <updated>1526095909171</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1526187194687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526187194687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19330855" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -286,7 +232,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39674798" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2504065" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,6 +246,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/consultre_proj/settings.py">
@@ -455,13 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consultre_proj/core/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -503,6 +446,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultre_proj/core/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="625" column="44" selection-start-line="625" selection-start-column="44" selection-end-line="625" selection-end-column="44" />
         </state>
       </provider>
     </entry>
