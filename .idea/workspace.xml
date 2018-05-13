@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0cf1c7d-d451-4920-9cff-46d9a26c1279" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/contactform/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/contactform/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/contactform/contactform.js" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/contactform/contactform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consultre_proj/core/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consultre_proj/core/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/consultre_proj/core/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,11 +78,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/consultre_proj/core/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
-              <caret line="625" column="44" selection-start-line="625" selection-start-column="44" selection-end-line="625" selection-end-column="44" />
+              <caret line="625" selection-start-line="625" selection-end-line="626" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,15 +109,6 @@
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/consultre_proj/core/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -128,6 +131,7 @@
       <find>our</find>
       <find>Get</find>
       <find>Service</find>
+      <find>A108 Adam Street, NY 535022, USA</find>
     </findStrings>
     <replaceStrings>
       <replace>$1=&quot;{% static '$2' %}&quot;</replace>
@@ -148,6 +152,7 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/runtime" />
         <option value="$PROJECT_DIR$/consultre_proj/core/templates/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -225,14 +230,14 @@
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19330855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19330855" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2504065" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2504065" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/consultre_proj/core/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -452,7 +450,17 @@
     <entry file="file://$PROJECT_DIR$/consultre_proj/core/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
-          <caret line="625" column="44" selection-start-line="625" selection-start-column="44" selection-end-line="625" selection-end-column="44" />
+          <caret line="625" selection-start-line="625" selection-end-line="626" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
         </state>
       </provider>
     </entry>
