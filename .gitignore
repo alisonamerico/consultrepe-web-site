@@ -15,7 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+consultre_proj/core/static/bibliotecas/
 lib64/
 parts/
 sdist/
